@@ -1,0 +1,14 @@
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\yaricap_bilgisine_gore_daire_cizme\bin\Debug\net9.0\yaricap_bilgisine_gore_daire_cizme.exe
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\yaricap_bilgisine_gore_daire_cizme\bin\Debug\net9.0\yaricap_bilgisine_gore_daire_cizme.deps.json
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\yaricap_bilgisine_gore_daire_cizme\bin\Debug\net9.0\yaricap_bilgisine_gore_daire_cizme.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\yaricap_bilgisine_gore_daire_cizme\bin\Debug\net9.0\yaricap_bilgisine_gore_daire_cizme.dll
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\yaricap_bilgisine_gore_daire_cizme\bin\Debug\net9.0\yaricap_bilgisine_gore_daire_cizme.pdb
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\yaricap_bilgisine_gore_daire_cizme\obj\Debug\net9.0\yaricap_bilgisine_gore_daire_cizme.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\yaricap_bilgisine_gore_daire_cizme\obj\Debug\net9.0\yaricap_bilgisine_gore_daire_cizme.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\yaricap_bilgisine_gore_daire_cizme\obj\Debug\net9.0\yaricap_bilgisine_gore_daire_cizme.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\yaricap_bilgisine_gore_daire_cizme\obj\Debug\net9.0\yaricap_bilgisine_gore_daire_cizme.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\yaricap_bilgisine_gore_daire_cizme\obj\Debug\net9.0\yaricap_bilgisine_gore_daire_cizme.dll
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\yaricap_bilgisine_gore_daire_cizme\obj\Debug\net9.0\refint\yaricap_bilgisine_gore_daire_cizme.dll
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\yaricap_bilgisine_gore_daire_cizme\obj\Debug\net9.0\yaricap_bilgisine_gore_daire_cizme.pdb
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\yaricap_bilgisine_gore_daire_cizme\obj\Debug\net9.0\yaricap_bilgisine_gore_daire_cizme.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\yaricap_bilgisine_gore_daire_cizme\obj\Debug\net9.0\ref\yaricap_bilgisine_gore_daire_cizme.dll
